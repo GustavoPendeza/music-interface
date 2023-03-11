@@ -1,0 +1,377 @@
+[
+    {
+        "id": 1,
+        "name": "Unfinished",
+        "artist": "Unlucky Morpheus",
+        "release": 2020,
+        "cover": "https://user-images.githubusercontent.com/53589614/223534120-0d2567e5-bec1-459f-b92f-9b791f53f488.png",
+        "musics": [
+            {
+                "id": 1,
+                "order": 1,
+                "name": "Unfinished",
+                "duration": "1:39"
+            },
+            {
+                "id": 2,
+                "order": 2,
+                "name": "Unending Sorceress",
+                "duration": "4:41"
+            },
+            {
+                "id": 3,
+                "order": 3,
+                "name": "Near The End",
+                "duration": "3:35"
+            },
+            {
+                "id": 4,
+                "order": 4,
+                "name": "Kago no tori",
+                "duration": "4:15"
+            },
+            {
+                "id": 5,
+                "order": 5,
+                "name": "Salome",
+                "duration": "3:41"
+            },
+            {
+                "id": 6,
+                "order": 6,
+                "name": "Make your choice",
+                "duration": "3:39"
+            },
+            {
+                "id": 7,
+                "order": 7,
+                "name": "Top of the \"M\"",
+                "duration": "3:19"
+            },
+            {
+                "id": 8,
+                "order": 8,
+                "name": "Dogura Magura",
+                "duration": "3:34"
+            },
+            {
+                "id": 9,
+                "order": 9,
+                "name": "Carry on singing to the sky",
+                "duration": "4:55"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Gods of Violence",
+        "artist": "Kreator",
+        "release": 2017,
+        "cover": "https://user-images.githubusercontent.com/53589614/223537399-2da6379f-0d73-4220-8625-6fce1cdfe0fa.png",
+        "musics": [
+            {
+                "id": 10,
+                "order": 1,
+                "name": "Apocalypticon",
+                "duration": "1:06"
+            },
+            {
+                "id": 11,
+                "order": 2,
+                "name": "World War Now",
+                "duration": "4:28"
+            },
+            {
+                "id": 12,
+                "order": 3,
+                "name": "Satan Is Real",
+                "duration": "4:38"
+            },
+            {
+                "id": 13,
+                "order": 4,
+                "name": "Totalitarian Terror",
+                "duration": "4:45"
+            },
+            {
+                "id": 14,
+                "order": 5,
+                "name": "Gods of Violence",
+                "duration": "5:51"
+            },
+            {
+                "id": 15,
+                "order": 6,
+                "name": "Army of Storms",
+                "duration": "5:09"
+            },
+            {
+                "id": 16,
+                "order": 7,
+                "name": "Hail to the Hordes",
+                "duration": "4:02"
+            },
+            {
+                "id": 17,
+                "order": 8,
+                "name": "Lion with Eagle Wings",
+                "duration": "5:22"
+            },
+            {
+                "id": 18,
+                "order": 9,
+                "name": "Fallen Brother",
+                "duration": "4:37"
+            },
+            {
+                "id": 19,
+                "order": 10,
+                "name": "Side by Side",
+                "duration": "4:19"
+            },
+            {
+                "id": 20,
+                "order": 11,
+                "name": "Death Becomes My Light",
+                "duration": "7:26"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Kaleidoscope",
+        "artist": "Kelis",
+        "release": 1999,
+        "cover": "https://user-images.githubusercontent.com/53589614/223264128-38f24f27-488f-49d3-bf93-1d386f38c1e4.jpg",
+        "musics": [
+            {
+                "id": 21,
+                "order": 1,
+                "name": "Intro",
+                "duration": "1:55"
+            },
+            {
+                "id": 22,
+                "order": 2,
+                "name": "Good Stuff (feat. Terrar)",
+                "duration": "3:52"
+            },
+            {
+                "id": 23,
+                "order": 3,
+                "name": "Cought Out There",
+                "duration": "4:51"
+            },
+            {
+                "id": 24,
+                "order": 4,
+                "name": "Get Along With You",
+                "duration": "4:27"
+            },
+            {
+                "id": 25,
+                "order": 5,
+                "name": "Mafia",
+                "duration": "4:18"
+            },
+            {
+                "id": 26,
+                "order": 6,
+                "name": "Game Show",
+                "duration": "5:04"
+            },
+            {
+                "id": 27,
+                "order": 7,
+                "name": "Suspended",
+                "duration": "4:53"
+            },
+            {
+                "id": 28,
+                "order": 8,
+                "name": "Mars",
+                "duration": "5:15"
+            },
+            {
+                "id": 29,
+                "order": 9,
+                "name": "Ghetto Children",
+                "duration": "4:48"
+            },
+            {
+                "id": 30,
+                "order": 10,
+                "name": "I Want Your Love",
+                "duration": "4:14"
+            },
+            {
+                "id": 31,
+                "order": 11,
+                "name": "No Turning Back",
+                "duration": "4:10"
+            },
+            {
+                "id": 32,
+                "order": 12,
+                "name": "Roller Rink",
+                "duration": "4:58"
+            },
+            {
+                "id": 33,
+                "order": 13,
+                "name": "In The Morning",
+                "duration": "4:20"
+            },
+            {
+                "id": 34,
+                "order": 14,
+                "name": "Wouldn't You Agree",
+                "duration": "4:32"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "The Sacrament of Sin",
+        "artist": "Powerwolf",
+        "release": 2018,
+        "cover": "https://user-images.githubusercontent.com/53589614/223597995-d7996390-ea83-4cde-9d20-528c2f143be5.png",
+        "musics": [
+            {
+                "id": 35,
+                "order": 1,
+                "name": "Fire & Forgive",
+                "duration": "4:30"
+            },
+            {
+                "id": 36,
+                "order": 2,
+                "name": "Demons Are a Girl's Best Friend",
+                "duration": "3:38"
+            },
+            {
+                "id": 37,
+                "order": 3,
+                "name": "Killers with the Cross",
+                "duration": "4:09"
+            },
+            {
+                "id": 38,
+                "order": 4,
+                "name": "Incense & Iron",
+                "duration": "3:57"
+            },
+            {
+                "id": 39,
+                "order": 5,
+                "name": "Where the Wild Wolves Have Gone",
+                "duration": "4:13"
+            },
+            {
+                "id": 40,
+                "order": 6,
+                "name": "Stossgebet",
+                "duration": "3:53"
+            },
+            {
+                "id": 41,
+                "order": 7,
+                "name": "Nightside of Siberia",
+                "duration": "3:52"
+            },
+            {
+                "id": 42,
+                "order": 8,
+                "name": "The Sacrament of Sin",
+                "duration": "3:26"
+            },
+            {
+                "id": 43,
+                "order": 9,
+                "name": "Venom of Venus",
+                "duration": "3:28"
+            },
+            {
+                "id": 44,
+                "order": 10,
+                "name": "Nighttime Rebel",
+                "duration": "4:03"
+            },
+            {
+                "id": 45,
+                "order": 11,
+                "name": "Fist by Fist (Sacralize or Strike)",
+                "duration": "3:32"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "evolution",
+        "artist": "Unlucky Morpheus",
+        "release": 2022,
+        "cover": "https://user-images.githubusercontent.com/53589614/223795928-0ea6adf5-b39b-4880-89f2-7e8a869a5bfa.png",
+        "musics": [
+            {
+                "id": 46,
+                "order": 1,
+                "name": "evolution",
+                "duration": "0:58"
+            },
+            {
+                "id": 47,
+                "order": 2,
+                "name": "\"M\" Anthem",
+                "duration": "4:17"
+            },
+            {
+                "id": 48,
+                "order": 3,
+                "name": "Amaryllis",
+                "duration": "4:35"
+            },
+            {
+                "id": 49,
+                "order": 4,
+                "name": "Welcome to Valhalla",
+                "duration": "3:10"
+            },
+            {
+                "id": 50,
+                "order": 5,
+                "name": "Tagatameni",
+                "duration": "3:57"
+            },
+            {
+                "id": 51,
+                "order": 6,
+                "name": "Wer ist Faust?",
+                "duration": "0:37"
+            },
+            {
+                "id": 52,
+                "order": 7,
+                "name": "The Black Death Mansion Murders",
+                "duration": "4:44"
+            },
+            {
+                "id": 53,
+                "order": 8,
+                "name": "Serene Evil",
+                "duration": "5:29"
+            },
+            {
+                "id": 54,
+                "order": 9,
+                "name": "\"M\" Revolution - \"evolution\" ver.",
+                "duration": "3:49"
+            },
+            {
+                "id": 5,
+                "order": 10,
+                "name": "Yumemaboroshi",
+                "duration": "4:13"
+            }
+        ]
+    }
+]
