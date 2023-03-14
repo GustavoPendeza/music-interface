@@ -34,7 +34,7 @@ export function Home() {
 
                 <List data={data} title="Square Behind" route="square" />
 
-                <List data={data} title="Circle" route="gradient" />
+                <List data={data} title="Circle" route="circle" />
 
             </ScrollView>
         </View>

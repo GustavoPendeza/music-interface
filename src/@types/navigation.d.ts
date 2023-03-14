@@ -9,6 +9,9 @@ export declare global {
                 data: Object;
                 title: string;
             },
+            circle: {
+                data: Object;
+            },
         }
     }
 }
