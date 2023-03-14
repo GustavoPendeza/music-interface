@@ -7,16 +7,17 @@ interface Props {
         name: string;
         cover: string;
     };
+    title: string;
     route: any;
 }
 
-export function Card({ item, route }: Props) {
+export function Card({ item, title, route }: Props) {
     const { navigate } = useNavigation();
 
     return (
         <TouchableOpacity
             activeOpacity={0.7}
-            onPress={() => navigate(route, { data: item })}
+            onPress={() => navigate(route, { data: item, title: title })}
         >
             <View className="w-32 mx-2">
                 <View className="h-32 w-32 rounded-lg mb-1">

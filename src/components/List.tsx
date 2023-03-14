@@ -16,7 +16,7 @@ interface Props {
 export function List({ data, title, route }: Props) {
     function renderItem({ item }: ListRenderItemInfo<Album>) {
         return (
-            <Card item={item} route={route} />
+            <Card item={item} title={title} route={route} />
         )
     }
 

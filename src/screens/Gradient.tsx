@@ -63,7 +63,7 @@ export function Gradient() {
 
             <ImageBackground
                 source={{ uri: `${data.cover}` }}
-                className="h-96 absolute top-0 right-0 left-0"
+                className="h-3/4 absolute -top-14 right-0 left-0"
                 resizeMode="cover"
             >
             </ImageBackground>

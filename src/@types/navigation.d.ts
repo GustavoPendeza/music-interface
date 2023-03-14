@@ -7,9 +7,7 @@ export declare global {
             },
             square: {
                 data: Object;
-            },
-            squarebehind: {
-                data: Object;
+                title: string;
             },
         }
     }

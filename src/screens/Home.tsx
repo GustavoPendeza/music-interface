@@ -32,7 +32,7 @@ export function Home() {
 
                 <List data={data} title="Square" route="square" />
 
-                <List data={data} title="Square Behind" route="squarebehind" />
+                <List data={data} title="Square Behind" route="square" />
 
                 <List data={data} title="Circle" route="gradient" />
 
