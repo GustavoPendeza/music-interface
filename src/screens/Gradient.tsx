@@ -55,7 +55,7 @@ export function Gradient() {
     });
 
     function renderItem({ item }: ListRenderItemInfo<Music>) {
-        return <MusicList item={item} isActive={isActive} setIsActive={setIsActive} />
+        return <MusicList item={item} isActive={isActive} setIsActive={setIsActive} circle={false} />
     }
 
     return (

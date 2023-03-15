@@ -1,139 +1,76 @@
 [
     {
-        "id": 1,
-        "name": "Unfinished",
-        "artist": "Unlucky Morpheus",
-        "release": 2020,
-        "cover": "https://user-images.githubusercontent.com/53589614/223534120-0d2567e5-bec1-459f-b92f-9b791f53f488.png",
+        "id": 4,
+        "name": "The Sacrament of Sin",
+        "artist": "Powerwolf",
+        "release": 2018,
+        "cover": "https://user-images.githubusercontent.com/53589614/223597995-d7996390-ea83-4cde-9d20-528c2f143be5.png",
         "musics": [
             {
-                "id": 1,
+                "id": 35,
                 "order": 1,
-                "name": "Unfinished",
-                "duration": "1:39"
+                "name": "Fire & Forgive",
+                "duration": "4:30"
             },
             {
-                "id": 2,
+                "id": 36,
                 "order": 2,
-                "name": "Unending Sorceress",
-                "duration": "4:41"
+                "name": "Demons Are a Girl's Best Friend",
+                "duration": "3:38"
             },
             {
-                "id": 3,
+                "id": 37,
                 "order": 3,
-                "name": "Near The End",
-                "duration": "3:35"
+                "name": "Killers with the Cross",
+                "duration": "4:09"
             },
             {
-                "id": 4,
+                "id": 38,
                 "order": 4,
-                "name": "Kago no tori",
-                "duration": "4:15"
+                "name": "Incense & Iron",
+                "duration": "3:57"
             },
             {
-                "id": 5,
+                "id": 39,
                 "order": 5,
-                "name": "Salome",
-                "duration": "3:41"
+                "name": "Where the Wild Wolves Have Gone",
+                "duration": "4:13"
             },
             {
-                "id": 6,
+                "id": 40,
                 "order": 6,
-                "name": "Make your choice",
-                "duration": "3:39"
+                "name": "Stossgebet",
+                "duration": "3:53"
             },
             {
-                "id": 7,
+                "id": 41,
                 "order": 7,
-                "name": "Top of the \"M\"",
-                "duration": "3:19"
+                "name": "Nightside of Siberia",
+                "duration": "3:52"
             },
             {
-                "id": 8,
+                "id": 42,
                 "order": 8,
-                "name": "Dogura Magura",
-                "duration": "3:34"
+                "name": "The Sacrament of Sin",
+                "duration": "3:26"
             },
             {
-                "id": 9,
+                "id": 43,
                 "order": 9,
-                "name": "Carry on singing to the sky",
-                "duration": "4:55"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Gods of Violence",
-        "artist": "Kreator",
-        "release": 2017,
-        "cover": "https://user-images.githubusercontent.com/53589614/223537399-2da6379f-0d73-4220-8625-6fce1cdfe0fa.png",
-        "musics": [
-            {
-                "id": 10,
-                "order": 1,
-                "name": "Apocalypticon",
-                "duration": "1:06"
+                "name": "Venom of Venus",
+                "duration": "3:28"
             },
             {
-                "id": 11,
-                "order": 2,
-                "name": "World War Now",
-                "duration": "4:28"
-            },
-            {
-                "id": 12,
-                "order": 3,
-                "name": "Satan Is Real",
-                "duration": "4:38"
-            },
-            {
-                "id": 13,
-                "order": 4,
-                "name": "Totalitarian Terror",
-                "duration": "4:45"
-            },
-            {
-                "id": 14,
-                "order": 5,
-                "name": "Gods of Violence",
-                "duration": "5:51"
-            },
-            {
-                "id": 15,
-                "order": 6,
-                "name": "Army of Storms",
-                "duration": "5:09"
-            },
-            {
-                "id": 16,
-                "order": 7,
-                "name": "Hail to the Hordes",
-                "duration": "4:02"
-            },
-            {
-                "id": 17,
-                "order": 8,
-                "name": "Lion with Eagle Wings",
-                "duration": "5:22"
-            },
-            {
-                "id": 18,
-                "order": 9,
-                "name": "Fallen Brother",
-                "duration": "4:37"
-            },
-            {
-                "id": 19,
+                "id": 44,
                 "order": 10,
-                "name": "Side by Side",
-                "duration": "4:19"
+                "name": "Nighttime Rebel",
+                "duration": "4:03"
             },
             {
-                "id": 20,
+                "id": 45,
                 "order": 11,
-                "name": "Death Becomes My Light",
-                "duration": "7:26"
+                "name": "Fist by Fist (Sacralize or Strike)",
+                "duration": "3:32"
             }
         ]
     },
@@ -231,81 +168,6 @@
         ]
     },
     {
-        "id": 4,
-        "name": "The Sacrament of Sin",
-        "artist": "Powerwolf",
-        "release": 2018,
-        "cover": "https://user-images.githubusercontent.com/53589614/223597995-d7996390-ea83-4cde-9d20-528c2f143be5.png",
-        "musics": [
-            {
-                "id": 35,
-                "order": 1,
-                "name": "Fire & Forgive",
-                "duration": "4:30"
-            },
-            {
-                "id": 36,
-                "order": 2,
-                "name": "Demons Are a Girl's Best Friend",
-                "duration": "3:38"
-            },
-            {
-                "id": 37,
-                "order": 3,
-                "name": "Killers with the Cross",
-                "duration": "4:09"
-            },
-            {
-                "id": 38,
-                "order": 4,
-                "name": "Incense & Iron",
-                "duration": "3:57"
-            },
-            {
-                "id": 39,
-                "order": 5,
-                "name": "Where the Wild Wolves Have Gone",
-                "duration": "4:13"
-            },
-            {
-                "id": 40,
-                "order": 6,
-                "name": "Stossgebet",
-                "duration": "3:53"
-            },
-            {
-                "id": 41,
-                "order": 7,
-                "name": "Nightside of Siberia",
-                "duration": "3:52"
-            },
-            {
-                "id": 42,
-                "order": 8,
-                "name": "The Sacrament of Sin",
-                "duration": "3:26"
-            },
-            {
-                "id": 43,
-                "order": 9,
-                "name": "Venom of Venus",
-                "duration": "3:28"
-            },
-            {
-                "id": 44,
-                "order": 10,
-                "name": "Nighttime Rebel",
-                "duration": "4:03"
-            },
-            {
-                "id": 45,
-                "order": 11,
-                "name": "Fist by Fist (Sacralize or Strike)",
-                "duration": "3:32"
-            }
-        ]
-    },
-    {
         "id": 5,
         "name": "evolution",
         "artist": "Unlucky Morpheus",
@@ -367,10 +229,202 @@
                 "duration": "3:49"
             },
             {
-                "id": 5,
+                "id": 55,
                 "order": 10,
                 "name": "Yumemaboroshi",
                 "duration": "4:13"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Memento Mori",
+        "artist": "Feuerschwanz",
+        "release": 2021,
+        "cover": "https://user-images.githubusercontent.com/53589614/225401780-33c20547-a0bd-410b-924a-eb23162657e0.png",
+        "musics": [
+            {
+                "id": 10,
+                "order": 1,
+                "name": "Memento Mori",
+                "duration": "3:31"
+            },
+            {
+                "id": 11,
+                "order": 2,
+                "name": "Untot im Drachenboot",
+                "duration": "3:32"
+            },
+            {
+                "id": 12,
+                "order": 3,
+                "name": "Ultima Nocte",
+                "duration": "3:38"
+            },
+            {
+                "id": 13,
+                "order": 4,
+                "name": "Rausch der Barbarei feat. Hämatom",
+                "duration": "3:29"
+            },
+            {
+                "id": 14,
+                "order": 5,
+                "name": "Krampus",
+                "duration": "3:02"
+            },
+            {
+                "id": 15,
+                "order": 6,
+                "name": "Feuer & Schwert",
+                "duration": "3:14"
+            },
+            {
+                "id": 16,
+                "order": 7,
+                "name": "Das Herz eines Drachen",
+                "duration": "3:48"
+            },
+            {
+                "id": 17,
+                "order": 8,
+                "name": "Rohirrim",
+                "duration": "3:52"
+            },
+            {
+                "id": 18,
+                "order": 9,
+                "name": "Am Galgen",
+                "duration": "3:31"
+            },
+            {
+                "id": 19,
+                "order": 10,
+                "name": "Hannibal",
+                "duration": "3:22"
+            },
+            {
+                "id": 20,
+                "order": 11,
+                "name": "Skaldenmet",
+                "duration": "3:44"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "No Halos In Hell",
+        "artist": "Cyhra",
+        "release": 2019,
+        "cover": "https://user-images.githubusercontent.com/53589614/225405576-dabc30f9-6242-4e77-a96a-db94822bb7a8.png",
+        "musics": [
+            {
+                "id": 1,
+                "order": 1,
+                "name": "Out of My Life",
+                "duration": "3:17"
+            },
+            {
+                "id": 2,
+                "order": 2,
+                "name": "No Halos in Hell",
+                "duration": "4:07"
+            },
+            {
+                "id": 3,
+                "order": 3,
+                "name": "Battle from Within",
+                "duration": "4:17"
+            },
+            {
+                "id": 4,
+                "order": 4,
+                "name": "I Am the One",
+                "duration": "3:50"
+            },
+            {
+                "id": 5,
+                "order": 5,
+                "name": "Bye Bye Forever",
+                "duration": "3:50"
+            },
+            {
+                "id": 6,
+                "order": 6,
+                "name": "Dreams Gone Wrong",
+                "duration": "3:35"
+            },
+            {
+                "id": 7,
+                "order": 7,
+                "name": "Lost in Time",
+                "duration": "4:38"
+            },
+            {
+                "id": 8,
+                "order": 8,
+                "name": "Kings Tonight",
+                "duration": "3:13"
+            },
+            {
+                "id": 9,
+                "order": 9,
+                "name": "I Had Your Back",
+                "duration": "3:58"
+            },
+            {
+                "id": 56,
+                "order": 10,
+                "name": "Blood Brothers",
+                "duration": "4:03"
+            },
+            {
+                "id": 57,
+                "order": 11,
+                "name": "Hit Me",
+                "duration": "3:47"
+            },
+            {
+                "id": 58,
+                "order": 12,
+                "name": "Man of Eternal Rain",
+                "duration": "4:36"
+            },
+            {
+                "id": 59,
+                "order": 13,
+                "name": "Kings and Queens",
+                "duration": "3:57"
+            },
+            {
+                "id": 60,
+                "order": 14,
+                "name": "Lies",
+                "duration": "4:09"
+            },
+            {
+                "id": 61,
+                "order": 15,
+                "name": "Lost in Time (Full Band)",
+                "duration": "4:33"
+            },
+            {
+                "id": 62,
+                "order": 16,
+                "name": "Dreams Gone Wrong - Acoustic",
+                "duration": "4:22"
+            },
+            {
+                "id": 63,
+                "order": 17,
+                "name": "Kings Tonight - Acoustic",
+                "duration": "3:51"
+            },
+            {
+                "id": 64,
+                "order": 18,
+                "name": "I Am the One - Acoustic",
+                "duration": "4:33"
             }
         ]
     }

@@ -8,6 +8,7 @@ interface Props {
     item: Music;
     isActive: Music | null;
     setIsActive: any;
+    circle: boolean;
 }
 
 interface Music {
@@ -17,7 +18,7 @@ interface Music {
     duration: string;
 }
 
-export function MusicList({ item, isActive, setIsActive }: Props) {
+export function MusicList({ item, isActive, setIsActive, circle }: Props) {
     const { colorScheme } = useColorScheme();
 
     const playMusic = (() => {
@@ -27,8 +28,17 @@ export function MusicList({ item, isActive, setIsActive }: Props) {
     return (
         <TouchableHighlight
             activeOpacity={0.7}
-            underlayColor={colorScheme === "dark" ? colors.slate[900] : colors.zinc[100]}
-            className="rounded-lg"
+            underlayColor={
+                circle === true && isActive && isActive.id === item.id
+                    ?
+                    colors.teal[300]
+                    :
+                    colorScheme === "dark" ? colors.slate[900] : colors.zinc[100]
+            }
+            className={
+                `${circle === true ? 'rounded-full' : 'rounded-lg'}
+                ${circle === true && isActive && isActive.id === item.id ? 'bg-teal-100' : null}`
+            }
             onPress={playMusic}
         >
             <View className="flex-row h-16 w-full pl-5 justify-between items-center">
@@ -53,11 +63,27 @@ export function MusicList({ item, isActive, setIsActive }: Props) {
                 </View>
                 <TouchableHighlight
                     activeOpacity={0.7}
-                    underlayColor={colorScheme === "dark" ? colors.slate[900] : colors.zinc[100]}
-                    className="h-full px-5 justify-center rounded-lg"
+                    underlayColor={
+                        circle === true && isActive && isActive.id === item.id
+                            ?
+                            colors.teal[300]
+                            :
+                            colorScheme === "dark" ? colors.slate[900] : colors.zinc[100]
+                    }
+                    className={`h-full px-5 justify-center ${circle === true ? 'rounded-full' : 'rounded-lg'}`}
                     onPress={() => { }}
                 >
-                    <Feather name="more-horizontal" size={20} color={colorScheme === "dark" ? colors.white : colors.black} />
+                    <Feather
+                        name="more-horizontal"
+                        size={20}
+                        color={
+                            circle === true && isActive && isActive.id === item.id
+                                ?
+                                colors.black
+                                :
+                                colorScheme === "dark" ? colors.white : colors.black
+                        }
+                    />
                 </TouchableHighlight>
             </View>
         </TouchableHighlight>
